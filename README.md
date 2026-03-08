@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Irving Huerta 
+University of Maryland Global Campus, 2025
+Computer Science
+
+I design and build interactive apps and webpages using Python, Java, and some C++. 
+I focus on object-oriented design and problem solving. 
+I enjoy maintaining reliable, scalable software for optimal performance. 
 <!--
 **ihuerta09/ihuerta09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
